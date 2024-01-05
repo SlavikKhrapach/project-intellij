@@ -11,6 +11,9 @@ public class Main {
 
     private static void printHello() {
         printMessage("Hello");
+    }
 
+    private static void printHeader() {
+        System.out.println("****************************************");
     }
 }
